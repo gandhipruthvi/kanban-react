@@ -3,17 +3,17 @@
 Kanban React is a simple project management application that helps you keep track of your tasks in a visually appealing and organized way. This application is built using React, React-Bootstrap, and Axios, and it leverages the Kanban board methodology to help you visualize your work and optimize your workflow.
 
 ### Table of Contents
-•	[Features](#features)
-•	[Installation](#installation)
-•	[Usage](#usage)
-•	[Contributing](#contributing)
+• [Features](#features)
+• [Installation](#installation)
+• [Usage](#usage)
+• [Contributing](#contributing)
 
 ### Features
-•	Create, read, and delete tasks
-•	Drag and drop tasks between columns
-•	Responsive design that adapts to different screen sizes
-•	User-friendly interface with easy-to-use controls
-•	Lightweight and fast loading
+• Create, read, and delete tasks
+• Drag and drop tasks between columns
+• Responsive design that adapts to different screen sizes
+• User-friendly interface with easy-to-use controls
+• Lightweight and fast loading
 
 ### Installation
 
