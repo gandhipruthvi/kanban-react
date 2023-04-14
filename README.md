@@ -9,7 +9,7 @@ Kanban React is a simple project management application that helps you keep trac
 •	[Contributing](#contributing)
 
 ### Features
-•	Create, read, update, and delete tasks
+•	Create, read, and delete tasks
 •	Drag and drop tasks between columns
 •	Responsive design that adapts to different screen sizes
 •	User-friendly interface with easy-to-use controls
@@ -43,9 +43,8 @@ Using Kanban React is simple and intuitive. Here are some basic instructions on 
 
 1.	Open the application in your web browser.
 2.	Create a new task by clicking on the "Add Task" button.
-3.	Edit a task by clicking on it and modifying the fields.
-4.	Delete a task by clicking on the trash icon next to it.
-5.	Drag and drop a task to move it between columns.
+3.	Delete a task by clicking on the trash icon next to it.
+4.	Drag and drop a task to move it between columns.
 
 ### Contributing
 
